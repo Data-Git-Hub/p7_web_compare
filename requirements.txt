@@ -1,0 +1,8 @@
+beautifulsoup4
+ipywidgets
+matplotlib
+requests
+spacy
+textblob
+ipykernel
+notebook
