@@ -1,6 +1,7 @@
 beautifulsoup4
 ipywidgets
 matplotlib
+numpy
 requests
 spacy
 textblob
