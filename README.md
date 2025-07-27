@@ -31,10 +31,11 @@ py -m pip install --upgrade pip setuptools wheel
 py -m pip install -r requirements.txt
 ```
 
-### spaCy Model Installation Note Windows
+### spaCy and textblob Model Installation Note for Windows
 
 ```shell
 python -m spacy download en_core_web_sm
+python -m textblob.download_corpora
 ```
 ---
 
@@ -50,10 +51,11 @@ python3 -m pip install --upgrade pip setuptools wheel
 python3 -m pip install -r requirements.txt
 ```
 
-### spaCy Model Installation Note macOS/Linux
+### spaCy and textblob Model Installation Note for macOS/Linux
 
 ```shell
 python3 -m spacy download en_core_web_sm
+python3 -m textblob.download_corpora
 ```
 ---
 
@@ -158,6 +160,10 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
-- P6 Init - 0.1 - Create web_compare.ipynb; Modify README.md, requirements.txt
-- P6 Init - 0.0 - Create requirements.txt; Modify README.md
+- 
+- P7 Sect - 1.0 - Modify web_compare.ipynb
+- P7 Init - 0.3 - Modify README.md
+- P7 Init - 0.2
+- P7 Init - 0.1 - Create web_compare.ipynb; Modify README.md, requirements.txt
+- P7 Init - 0.0 - Create requirements.txt; Modify README.md
 ## Test History
