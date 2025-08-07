@@ -123,20 +123,6 @@ git push -u origin main
 
 #### Section 7.1.1: Interpretation of Token vs Lemma Score Distributions
 
-### Section 8. Filtering for Nouns Only
-
-#### Section 8.1. Comparison Between Noun Tokens and Lemmas
-
-#### Section 8.2. Score Sentences by Noun Token and Lemma Frequency
-
-#### Section 8.3. Sentence Noun Token Scores Histogram
-
-#### Section 8.4 Sentence Noun Lemma Scores Histogram
-
-#### Section 8.4.1. Noun Token vs Lemma Score Comparison Plot
-
-#### Section 8.4.2. Interpretation of Noun Token vs Lemma Score Comparison Plot
-
 ### Conclusion
 
 ### References
@@ -173,6 +159,7 @@ Contributors names and contact info <br>
 
 ## Version History
 -
+- P7 Sect - 6.0 - Modify web_compare.ipynb, README.md
 - P7 Sect - 5.1 - Modify web_compare.ipynb, README.md
 - P7 Sect - 5.0 - Modify web_compare.ipynb, README.md
 - P7 Sect - 4.4 - Modify web_compare.ipynb, README.md
