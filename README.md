@@ -9,8 +9,6 @@ Web scraping is an essential skill in data analytics and business intelligence, 
 
 This project also demonstrates effective use of Python virtual environments, version control with GitHub, and professional documentation practices. All code has been executed prior to submission, and final versions have been exported to HTML to ensure accessibility and review readiness. The final submission includes code, outputs, visualizations, and reflections on the process.
 
-/// Add text about comparing two different webpages ///
-
 ## Tasks
 
 Complete the tasks in the Python Notebook in this repository.
@@ -89,8 +87,6 @@ git push -u origin main
 
 ### Imports
 
-### Tasks
-
 ### Section 1. Extract and Save About Us for Each Company's Website
 
 ### Section 2. Load and Display About Us Text Conversion of Each Company's Website
@@ -158,7 +154,7 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
--
+- P7 Finl - 0.0 - Modify web_compare.ipynb, README.md
 - P7 Sect - 6.0 - Modify web_compare.ipynb, README.md
 - P7 Sect - 5.1 - Modify web_compare.ipynb, README.md
 - P7 Sect - 5.0 - Modify web_compare.ipynb, README.md
