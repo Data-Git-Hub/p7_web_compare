@@ -139,6 +139,8 @@ git push -u origin main
 
 ### Conclusion
 
+### References
+
 ---
 
 ## Rubric
@@ -171,6 +173,8 @@ Contributors names and contact info <br>
 
 ## Version History
 -
+- P7 Sect - 4.4
+- P7 Sect - 4.3 - Modify web_compare.ipynb, README.md
 - P7 Sect - 4.2 - Modify web_compare.ipynb, README.md
 - P7 Sect - 4.0 - Add folder filter, bad_words.txt; Modify web_compare.ipynb, README.md
 - P7 Sect - 3.0 - Add folder tps_report; Modify web_compare.ipynb, README.md
