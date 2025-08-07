@@ -1,0 +1,10 @@
+piggly: 20
+wiggly: 20
+®: 18
+store: 11
+grocery: 7
+c&s: 6
+llc: 5
+saunder: 5
+history: 4
+wholesale: 4

@@ -7,3 +7,4 @@ spacy
 textblob
 ipykernel
 notebook
+panda

@@ -1,0 +1,10 @@
+albertsons: 19
+care: 17
+try: 15
+deli: 14
+load: 14
+frozen: 10
+®: 9
+foods: 8
+sorry: 8
+canned: 8

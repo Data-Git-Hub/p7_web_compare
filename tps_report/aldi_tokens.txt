@@ -1,0 +1,10 @@
+aldi: 28
+new: 15
+products: 13
+opens: 13
+tab: 13
+fresh: 11
+frozen: 11
+cart: 10
+supplies: 9
+food: 8

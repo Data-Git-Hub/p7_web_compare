@@ -1,0 +1,10 @@
+price: 15
+new: 15
+product: 14
+open: 13
+tab: 13
+fresh: 11
+frozen: 11
+cart: 10
+shop: 9
+supplies: 9

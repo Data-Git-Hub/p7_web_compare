@@ -1,0 +1,10 @@
+albertsons: 18
+care: 17
+try: 15
+deli: 14
+load: 14
+shop: 12
+frozen: 10
+®: 9
+store: 9
+foods: 8

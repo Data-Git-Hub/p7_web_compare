@@ -1,0 +1,10 @@
+hy: 107
+vee: 105
+store: 62
+stores: 38
+company: 37
+iowa: 35
+new: 23
+opened: 23
+year: 18
+vredenburg: 17

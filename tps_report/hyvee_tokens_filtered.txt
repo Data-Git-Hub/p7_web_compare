@@ -1,0 +1,10 @@
+iowa: 35
+new: 23
+opened: 23
+year: 18
+vredenburg: 17
+customers: 17
+introduced: 16
+employees: 13
+hyde: 11
+des: 11

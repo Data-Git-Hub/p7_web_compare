@@ -91,15 +91,27 @@ git push -u origin main
 
 ### Tasks
 
-### Section 1. Extract and Save Article HTML
+### Section 1. Extract and Save About Us for Each Company's Website
 
-### Section 2. Load and Display Article Text
+### Section 2. Load and Display About Us Text Conversion of Each Company's Website
+
+#### Preload Filter Dictionary
 
 ### Section 3. Analyze Most Frequent Tokens with spaCy
 
+#### Section 3.1. Analyze Most Frequent Tokens with spaCy with Filter
+
 ### Section 4. Analyze Most Frequent Lemmas with spaCy
 
-#### Section 4.1. Comparison Between Tokens and Lemmas
+#### Section 4.1. Analyze Most Frequent Lemmas with spaCy with Filter
+
+#### Section 4.2. Comparison Between Tokens and Lemmas
+
+#### Section 4.3. Comparison Between Tokens and Lemmas with Filter
+
+#### Section 4.4. Polarity Scores for Each Company's Website
+
+#### Section 4.5 Number of Sentences for Each Company's Website
 
 ### Section 5. Score Sentences by Token and Lemma Frequency
 
@@ -160,7 +172,11 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
-- 
+-
+- P7 Sect - 4.0 - Add folder filter, bad_words.txt; Modify web_compare.ipynb, README.md
+- P7 Sect - 3.0 - Add folder tps_report; Modify web_compare.ipynb, README.md
+- P7 Sect - 2.0 - Add folder parse; Modify web_compare.ipynb, README.md
+- P7 Sect - 1.1 - Add folder dump_folder; Modify web_compare.ipynb, README.md 
 - P7 Sect - 1.0 - Modify web_compare.ipynb
 - P7 Init - 0.3 - Modify README.md
 - P7 Init - 0.2

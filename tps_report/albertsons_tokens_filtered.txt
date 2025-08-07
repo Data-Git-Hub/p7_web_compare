@@ -1,0 +1,10 @@
+care: 17
+try: 15
+deli: 14
+load: 14
+frozen: 10
+sorry: 8
+canned: 8
+sign: 7
+unable: 7
+menu: 7

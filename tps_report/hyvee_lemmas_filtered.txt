@@ -1,0 +1,10 @@
+iowa: 35
+year: 24
+new: 23
+open: 23
+customer: 18
+employee: 17
+vredenburg: 17
+introduce: 16
+service: 11
+hyde: 11

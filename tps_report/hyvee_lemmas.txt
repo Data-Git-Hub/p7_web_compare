@@ -1,0 +1,10 @@
+hy: 107
+vee: 105
+store: 95
+company: 37
+iowa: 35
+year: 24
+new: 23
+open: 23
+customer: 18
+employee: 17
