@@ -167,3 +167,4 @@ Contributors names and contact info <br>
 - P7 Init - 0.1 - Create web_compare.ipynb; Modify README.md, requirements.txt
 - P7 Init - 0.0 - Create requirements.txt; Modify README.md
 ## Test History
+- P7 Test - 0.0 - Test to Insure all Requirements and Updates are current
