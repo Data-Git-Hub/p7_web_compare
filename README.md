@@ -173,6 +173,7 @@ Contributors names and contact info <br>
 
 ## Version History
 -
+- P7 Sect - 5.1 - Modify web_compare.ipynb, README.md
 - P7 Sect - 5.0 - Modify web_compare.ipynb, README.md
 - P7 Sect - 4.4 - Modify web_compare.ipynb, README.md
 - P7 Sect - 4.3 - Modify web_compare.ipynb, README.md
