@@ -105,13 +105,11 @@ git push -u origin main
 
 #### Section 4.1. Analyze Most Frequent Lemmas with spaCy with Filter
 
-#### Section 4.2. Comparison Between Tokens and Lemmas
+#### Section 4.2. Comparison Between Tokens and Lemmas with Filter
 
-#### Section 4.3. Comparison Between Tokens and Lemmas with Filter
+#### Section 4.3. Polarity Scores for Each Company's Website
 
-#### Section 4.4. Polarity Scores for Each Company's Website
-
-#### Section 4.5 Number of Sentences for Each Company's Website
+#### Section 4.4 Number of Sentences for Each Company's Website
 
 ### Section 5. Score Sentences by Token and Lemma Frequency
 
@@ -173,6 +171,7 @@ Contributors names and contact info <br>
 
 ## Version History
 -
+- P7 Sect - 4.2 - Modify web_compare.ipynb, README.md
 - P7 Sect - 4.0 - Add folder filter, bad_words.txt; Modify web_compare.ipynb, README.md
 - P7 Sect - 3.0 - Add folder tps_report; Modify web_compare.ipynb, README.md
 - P7 Sect - 2.0 - Add folder parse; Modify web_compare.ipynb, README.md
